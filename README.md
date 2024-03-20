@@ -228,7 +228,6 @@ This comprehensive approach ensured our dataset was not only clean and structure
 ### Summary of Dashboard Insights
 
 #### First Dashboard Page:
-
 <br/><br/>
 1. KPI Cards:
 
@@ -237,17 +236,14 @@ This comprehensive approach ensured our dataset was not only clean and structure
  - Total Pizzas Sold
  - Total Orders
  - Average Pizzas Per Order
-
 <br/><br/>
 2. Area Chart:
 
  - An area chart illustrating orders over months, providing insights into monthly trends in sales.
-
 <br/><br/>
 3. Stacked Column Chart:
 
  - A stacked column chart depicting orders by weekday, aiding in understanding weekly sales patterns.
-
 <br/><br/>
 4. Donut Charts:
 
@@ -255,18 +251,15 @@ This comprehensive approach ensured our dataset was not only clean and structure
  - Revenue distribution by Pizza Category
  - Revenue distribution by Pizza Size
  - Offering a visual breakdown of revenue sources by category and size.
-
 <br/><br/>
 5. Funnel Chart:
 
  - A funnel chart representing the total pizzas sold by pizza category, providing a clear visualization of sales funnel dynamics.
-
 <br/><br/>
 6. Interactive Filters and Slicers:
 
  - Time Slicer: Allows users to select specific time periods for analysis.
  - Filters for Pizza Category and Pizza Size: Enables sorting and filtering data based on pizza categories and sizes.
-
 
 <br/><br/>
 
