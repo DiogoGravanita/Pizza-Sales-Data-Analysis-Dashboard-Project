@@ -228,7 +228,7 @@ This comprehensive approach ensured our dataset was not only clean and structure
 ### Summary of Dashboard Insights
 
 #### First Dashboard Page:
-<br/><br/>
+
 1. KPI Cards:
 
  - Total Revenue
