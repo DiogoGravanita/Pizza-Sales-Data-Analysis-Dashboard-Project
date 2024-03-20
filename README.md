@@ -26,7 +26,7 @@ The dataset we'll be working with contains detailed information about pizza sale
 
 We'll focus on the following KPIs to evaluate the performance of the pizza sales:
 
-<br/><br/>
+
 
 1. Total Revenue
 
@@ -44,7 +44,7 @@ We'll focus on the following KPIs to evaluate the performance of the pizza sales
 
 We'll create a variety of charts and visualizations to present the data effectively:
 
-<br/><br/>
+
 
 1. Daily Trend for Total Orders
 2. Monthly Trend for Total Orders
